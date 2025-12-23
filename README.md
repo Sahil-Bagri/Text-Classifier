@@ -1,1 +1,32 @@
 # Text-Classifier
+
+*A simple text classification machine learning project to classify text documents using Python and NLP techniques (TF-IDF with ML models) in a Jupyter Notebook.*
+
+# 📌 Overview
+
+*This repository contains an interactive Jupyter Notebook demonstrating how to build a text classifier for labeled text data. It covers preprocessing, feature extraction, model training, and evaluation — ideal for beginners learning NLP and machine learning.*
+
+# 🚀 Features
+
+*✔ Text preprocessing (tokenization, cleaning)
+✔ Feature extraction using TF-IDF vectorization
+✔ Training a machine learning classifier
+✔ Evaluation and model metrics
+✔ Jupyter Notebook for step-by-step execution*
+
+# 🧠 How It Works
+
+# Load Dataset
+*Load your labeled text data (csv file with text and labels).*
+
+# Text Cleanup
+*Perform text normalization such as lowercase conversion, removing punctuation, etc.*
+
+# TF-IDF Features
+*Use TF-IDF Vectorizer to convert raw text into meaningful numeric features.*
+
+# Model Training
+*Train a machine learning classifier (Random Forest Classifier) on the feature vectors.*
+
+Evaluate Model
+Assess performance using accuracy, confusion matrix, classification report, etc.
