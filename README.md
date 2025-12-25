@@ -1,7 +1,7 @@
 # Text-Classifier
 
 *A simple text classification machine learning project to classify text documents using Python and NLP techniques (TF-IDF with ML models) in a Jupyter Notebook.*
-
+Click on this one to check => https://textclassifiercategory.streamlit.app/
 # 📌 Overview
 
 *This repository contains an interactive Jupyter Notebook demonstrating how to build a text classifier for labeled text data. It covers preprocessing, feature extraction, model training, and evaluation — ideal for beginners learning NLP and machine learning.*
