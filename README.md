@@ -6,6 +6,8 @@ Click on this one to check => https://textclassifiercategory.streamlit.app/
 
 *This repository contains an interactive Jupyter Notebook demonstrating how to build a text classifier for labeled text data. It covers preprocessing, feature extraction, model training, and evaluation — ideal for beginners learning NLP and machine learning.*
 
+<img alt="World" width=400 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejlpNHI4a3MzYjg2bzkyM2x1b2E2b3BnNjNzM3doaTE1dHFtaGdsOSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/YkXNjAkG7CfEVx3gcy/giphy.gif">
+
 # 🚀 Features
 
 *✔ Text preprocessing (tokenization, cleaning)
